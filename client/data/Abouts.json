@@ -1,0 +1,38 @@
+[
+    {
+        "createdAt": "",
+        "id": 1,
+        "img": "https://live.staticflickr.com/65535/49608771097_ea5b83709a_o.jpg",
+        "info": "The owner and the man behind How to Handy",
+        "name": "Arthur Morgan",
+        "title": "The Lone Wanderer",
+        "updatedAt": ""
+    },
+    {
+        "createdAt": "",
+        "id": 2,
+        "img": "https://images.unsplash.com/photo-1556385600-81ca04c88cb6?ixlib=rb-1.2.1",
+        "info": "A contributer, who merely adopted the handyman genius and put some style into it.",
+        "name": "John Shepard",
+        "title": "The Great Dane",
+        "updatedAt": ""
+    },
+    {
+        "createdAt": "",
+        "id": 3,
+        "img": "https://live.staticflickr.com/65535/49608771147_588ba29946_o.jpg",
+        "info": "The actual worker of the group, who knows his stuff, and painstakingly put all the guides together",
+        "name": "Clayton Carmine",
+        "title": "The Ruiner",
+        "updatedAt": ""
+    },
+    {
+        "createdAt": "",
+        "id": 4,
+        "img": "https://live.staticflickr.com/65535/49723585672_1a868a6848_o.jpg",
+        "info": null,
+        "name": "Connor Arkay",
+        "title": "The Kiss of Death",
+        "updatedAt": ""
+    }
+]

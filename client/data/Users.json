@@ -1,0 +1,93 @@
+[
+    {
+        "createdAt": "2019-09-04 23:59:00.196 +00:00",
+        "email": "james@jamesmail.com",
+        "id": 1,
+        "password": "123456",
+        "updatedAt": "2019-09-04 23:59:00.196 +00:00"
+    },
+    {
+        "createdAt": "2019-09-05 00:31:22.220 +00:00",
+        "email": "james3@james.com",
+        "id": 2,
+        "password": "12345678",
+        "updatedAt": "2019-09-05 00:31:22.220 +00:00"
+    },
+    {
+        "createdAt": "2019-09-05 00:48:02.430 +00:00",
+        "email": "test@test.com",
+        "id": 3,
+        "password": "password",
+        "updatedAt": "2019-09-05 00:48:02.430 +00:00"
+    },
+    {
+        "createdAt": "2019-09-11 04:29:31.272 +00:00",
+        "email": "james37@james.com",
+        "id": 4,
+        "password": "12345673333",
+        "updatedAt": "2019-09-11 04:29:31.272 +00:00"
+    },
+    {
+        "createdAt": "2019-09-11 05:17:09.475 +00:00",
+        "email": "james39017@james.com",
+        "id": 5,
+        "password": "$2b$10$DcuTj71FRHA7Mjt041wy3eisP5M./6xk8t0aQEs7nuO4odBBDmaKO",
+        "updatedAt": "2019-09-11 05:17:09.475 +00:00"
+    },
+    {
+        "createdAt": "2019-09-11 05:30:10.268 +00:00",
+        "email": "jimbo@mail.com",
+        "id": 6,
+        "password": "$2b$10$GWjfeNVuENWcNDseAsvdLeShWzFqRXhwKLj9H29qyvPKMr0y6lDJ.",
+        "updatedAt": "2019-09-11 05:30:10.268 +00:00"
+    },
+    {
+        "createdAt": "2019-09-11 05:34:32.624 +00:00",
+        "email": "jamessmith18@fmail.com",
+        "id": 7,
+        "password": "$2b$10$3/MY3XgZ58aEdKFLysZ5suuKEx8OrSQa0IGR5UngheUdhuuVNbYm.",
+        "updatedAt": "2019-09-11 05:34:32.624 +00:00"
+    },
+    {
+        "createdAt": "2019-09-11 23:06:54.785 +00:00",
+        "email": "jamessmith71@kmail.com",
+        "id": 8,
+        "password": "$2b$10$uhvEAWCmoBera2cDuRK.DuviJpRs/wX8lIOw2fiIsINp4TQsDLTcm",
+        "updatedAt": "2019-09-11 23:06:54.785 +00:00"
+    },
+    {
+        "createdAt": "2019-10-23 03:57:56.045 +00:00",
+        "email": "me@memail.com",
+        "id": 9,
+        "password": "$2b$10$JxWdPzKwD7i5eYvmL3WozudOf0q858VFMa8ahk3385svrOP9WDXI.",
+        "updatedAt": "2019-10-23 03:57:56.045 +00:00"
+    },
+    {
+        "createdAt": "2019-10-29 09:55:35.392 +00:00",
+        "email": "okay@okaymail.co.uk",
+        "id": 10,
+        "password": "$2b$10$CUFts2p5hEx6zOYrTxLKTeLn8n4PbvbhhM95YaV84.DJULXBgAjVu",
+        "updatedAt": "2019-10-29 09:55:35.392 +00:00"
+    },
+    {
+        "createdAt": "2019-10-29 11:28:32.882 +00:00",
+        "email": "bobbyboo@bobbette.com",
+        "id": 11,
+        "password": "$2b$10$rXyE17xti9na/Uvp44f16uUG73Zm7ceV57qrw8LbLb8dk.MMqOA1K",
+        "updatedAt": "2019-10-29 11:28:32.882 +00:00"
+    },
+    {
+        "createdAt": "2019-10-29 11:39:32.778 +00:00",
+        "email": "jamespssmith@gmail.com",
+        "id": 12,
+        "password": "$2b$10$id85eQU881S2CCv/tVz/1euhl2kYpv2cjtKZuMU4f1UIHT1Km0DXm",
+        "updatedAt": "2019-10-29 11:39:32.778 +00:00"
+    },
+    {
+        "createdAt": "2019-11-20 03:10:49.143 +00:00",
+        "email": "fake-email@yahoo.com.au",
+        "id": 13,
+        "password": "$2b$10$ALjDjefU/VI20Bb17pIn4emB2DChzHkwy1D0jFHBHveIiEJhUhv0.",
+        "updatedAt": "2019-11-20 03:10:49.143 +00:00"
+    }
+]

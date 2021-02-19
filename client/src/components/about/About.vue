@@ -3,7 +3,7 @@
         <div class="blog-section-inner">
     <div class="container">
       <div class="about text-white py-2">
-        <h1>About Handyman</h1><hr class="light" />
+        <h1>About HMS Harmony</h1><hr class="light" />
       </div>
     </div>
 

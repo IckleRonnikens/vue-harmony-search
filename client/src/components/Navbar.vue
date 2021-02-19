@@ -2,13 +2,12 @@
 <div>
 
   <b-navbar toggleable="lg" fixed="top" type="dark" >
-    <b-navbar-brand href="/">Handyman</b-navbar-brand>
+    <b-navbar-brand href="/">HMS Harmony</b-navbar-brand>
 
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
     <b-collapse id="nav-collapse" is-nav class="nav-background">
       <b-navbar-nav>
-    <!-- <router-link to="/" size="sm" class="btn btn-outline-light mr-2 my-sm-0 rounded-0">Home</router-link> -->
     <router-link to="/about"  size="sm" class="btn btn-outline-light mr-2 my-sm-0 rounded-0">About</router-link>
     <router-link to="/blog" size="sm" class="btn btn-outline-light mr-2 my-sm-0 rounded-0">Blog</router-link>
     <router-link to="/guides" size="sm" class="btn btn-outline-light mr-2 my-sm-0 rounded-0">Guides</router-link>
